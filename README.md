@@ -1,6 +1,6 @@
 # face-similarity
-find similar face from image dataset using python and face_recognition library. For better result you need more images in people folder.
-I have just stored for examples...
+Find a face from an image dataset similar to a given image using python and face_recognition library. For better results, you wll need more images in the watchlist ('people' folder).
+
 
 # requirements
 1. Dlib :- installation instruction in https://pysource.com/2019/03/20/how-to-install-dlib-for-python-3-on-windows/
